@@ -22,7 +22,7 @@ def decodificar_msg(msg, dict_morse):
                 palavra_decodificada.append(dict_morse[letra])
             else:
                 palavra_decodificada.append('?')  # Para tratar caracteres não reconhecidos
-        mensagem_decodificada.append(''.join(palavra_decodificada))
+        mensagem_decodificada.append(''.join(str(char) for char in palavra_decodificada))
     return ' '.join(mensagem_decodificada)
 
 
