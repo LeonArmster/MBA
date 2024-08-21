@@ -6,7 +6,7 @@ Imagine que você é um agente especial que possui a missão de interceptar mens
 
 Sua missão é: <br></br>
 ⦁	Interceptar estas mensagens;<br></br>
-⦁	ecodificar, sabendo que as letras estão espaçadas por um espaço;<br></br>
+⦁	Decodificar, sabendo que as letras estão espaçadas por um espaço;<br></br>
 ⦁	Salvar as mensagens em um arquivo em texto claro;<br></br>
 ⦁	Salvar o datetime da decodificação da mensagem;<br></br>
 
